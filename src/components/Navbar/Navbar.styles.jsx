@@ -61,8 +61,8 @@ export const Containeritems = styled.div`
     padding:10px 0 20px 0;
     width:100%;
     left:0;
+    justify-content:center;
     text-align:center;
-
     a{
       padding:10px 20px;
     }
