@@ -32,9 +32,9 @@ const AboutMe = () => {
       <S.ContainerFlex>
         <S.ContainerText>
           <S.Title>
-            <p>Hello, i&apos;m</p>
+            <p>👋Hola, soy</p>
             <p>Samuel Saravia</p>
-            <p>Me apasiona el desarrollo web y aprender nuevas tecnologias</p>
+            <p>Soy desarrollador fronted y backend, <br/>soy un apasionado en el campo de la programación.</p>
           </S.Title>
 
           <S.ContainerText>
