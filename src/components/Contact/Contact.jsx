@@ -49,7 +49,7 @@ const Contact = () => {
   };
 
   return (
-    <S.ContainerContact>
+    <S.ContainerContact id="contact">
       <S.Title>Contáctame</S.Title>
       <S.ContainerForm>
       
