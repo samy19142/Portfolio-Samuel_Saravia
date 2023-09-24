@@ -26,8 +26,8 @@ export const projectsPortfolio = [
       ],
       description:
         "Application created with React JS and CSS to make a request an external API of Rick & Morty.",
-      repository: "https://github.com/ratasi/rick-morty/",
-      website: "#!",
+      repository: "https://github.com/samy19142/rick-morty-app",
+      website: "https://rococo-palmier-6e17c2.netlify.app",
     },
     {
       title: "Lists Todo",
@@ -38,8 +38,8 @@ export const projectsPortfolio = [
       ],
       description:
         "Application created with React JS and Semantic UI to make a list of tasks where you can add or remove it.",
-      repository: "https://github.com/ratasi/todolist-udemy",
-      website: "#!",
+      repository: "https://github.com/samy19142/todolist",
+      website: "https://resilient-capybara-6264d5.netlify.app",
     },
     {
       title: "Simpson API",
@@ -50,8 +50,8 @@ export const projectsPortfolio = [
       ],
       description:
         "Application created with React JS and Styled Components to make a request an external API of Simpsons.",
-      repository: "https://github.com/ratasi/simpson-phrases",
-      website: "#!",
+      repository: "https://github.com/samy19142/Frases-Simpson",
+      website: "https://darling-sherbet-0b3fd9.netlify.app",
     },
     {
       title: "Marvel API",
@@ -64,8 +64,8 @@ export const projectsPortfolio = [
       ],
       description:
         "Application created with React JS, React Router and Sass to make a request an external API of Marvel.",
-      repository: "https://github.com/ratasi/marvel-react",
-      website: "#!",
+      repository: "https://github.com/samy19142/marvel-page",
+      website: "https://chic-naiad-a611b3.netlify.app",
     },
     {
       title: "Dynamic Form",
@@ -76,8 +76,8 @@ export const projectsPortfolio = [
       ],
       description:
         "Application of a landing page created with React JS and React Bootstrap to make a form with dynamic fields.",
-      repository: "https://github.com/ratasi/dynamic-form-project",
-      website: "#!",
+      repository: "https://github.com/samy19142/dynamic_form-project",
+      website: "https://dulcet-sunshine-62a9b2.netlify.app/",
     },
     {
       title: "Fuel Station",
@@ -89,7 +89,7 @@ export const projectsPortfolio = [
       ],
       description:
         "Application created with Vite where you can save the information and see it on a summary",
-      repository: "https://github.com/ratasi/gasolinera-react-vite",
-      website: "#!",
+      repository: "https://github.com/samy19142/Gasolinera-react",
+      website: "https://endearing-trifle-a56c39.netlify.app/",
     },
   ];

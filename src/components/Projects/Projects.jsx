@@ -19,7 +19,7 @@ const Projects = () => {
           <S.ProjectContent key={index}>
             <S.TitleProject>{project.title}</S.TitleProject>
             <S.ContainerImage>
-              <img src={project.image} alt={project.title} loazy='true'/>
+              <img src={project.image} alt={project.title}/>
             </S.ContainerImage>
             <S.ContainerTechs>
               {project.techs.map((tech,index)=>(
