@@ -51,7 +51,7 @@ export const projectsPortfolio = [
       description:
         "Application created with React JS and Styled Components to make a request an external API of Simpsons.",
       repository: "https://github.com/samy19142/Frases-Simpson",
-      website: "https://darling-sherbet-0b3fd9.netlify.app",
+      website: "https://clever-selkie-e81dc8.netlify.app",
     },
     {
       title: "Marvel API",

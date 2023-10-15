@@ -34,11 +34,20 @@ const AboutMe = () => {
           <S.Title>
             <p>👋Hola, soy</p>
             <p>Samuel Saravia</p>
-            <p>Soy desarrollador fronted y backend, <br/>soy un apasionado en el campo de la programación.</p>
+
+            <p>Desarrollador Fronted y Backend</p>
+            <p>Las tecnologías que utilizo son:</p>
+            <ul>
+              <li>REACT JS</li>
+              <li>C#</li>
+              <li>.NET</li>
+              <li>JAVA</li>
+              <li>VBA</li>
+            </ul>
           </S.Title>
 
           <S.ContainerText>
-            Lorem ipsum dolor sit amet consectetur adipisicing e
+          <p>Apasionado en el campo de la programación y las nuevas tecnologías.</p>
           </S.ContainerText>
 
           <S.ContainerIcons>
@@ -56,7 +65,7 @@ const AboutMe = () => {
         </S.ContainerText>
 
         <S.ContainerImage>
-                <img src="img/Logo.png" alt="Samuel Saravia"/>
+                <img src="img/Perfil.png" alt="Samuel Saravia"/>
         </S.ContainerImage>
 
       </S.ContainerFlex>

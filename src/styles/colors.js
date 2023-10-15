@@ -1,5 +1,5 @@
 export const colors = {
-    TEXT_GRADIENT_PURPLE: "linear-gradient(135deg,#cb5eee 0%,#4be1ec 100%)",
+    TEXT_GRADIENT_PURPLE: "linear-gradient(135deg, #fff566 0%, #ff3a33 100%);",
     TEXT_GRADIENT_GREEN: "linear-gradient(135deg,#d6ff7f 0%,#00b3cc 100%)",
     TEXT_GREY_NEUTRAL: "#6b6f76",
     TEXT_BLACK: "#1d2238",

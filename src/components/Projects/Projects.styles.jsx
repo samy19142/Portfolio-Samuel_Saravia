@@ -17,7 +17,7 @@ export const Title = styled.h2`
 
     span{
         font-size:40px;
-        background: linear-gradient(135deg,#d6ff7f 0%, #00b3cc 100%);
+        background: linear-gradient(135deg, #fff566 0%, #ff3a33 100%);
         -webkit-background-clip:text !important;
         -webkit-text-fill-color:transparent !important;
     }
@@ -47,7 +47,7 @@ export const TitleProject = styled.h3`
     text-align:center;
     margin-bottom:10px;
     color:${colors.TEXT_WHITE};
-    background: linear-gradient(135deg, rgb(102, 199, 255) 0%, rgb(3, 100, 156) 100%);
+    background: linear-gradient(to bottom, #0f2027, #203a43, #2c5364);
     box-shadow:${colors.BOX_SHADOW_BLUE};
     text-decoration:none;
 `;
@@ -100,9 +100,16 @@ export const ContainerFooter = styled.div`
     margin-top:10px;
     img{
         width:35px;
+        transition: width  .2s ease-in;
     }
 
     a:first-of-type{
         padding:0 20px;
+    }
+
+    img:hover{
+        width:40px;
+        background: linear-gradient(to bottom, #0f2027, #203a43, #a3bbc5);
+        border-radius:100%;
     }
 `;

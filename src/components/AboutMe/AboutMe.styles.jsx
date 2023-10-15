@@ -39,6 +39,16 @@ export const Title = styled.h1`
         -webkit-background-clip:text !important;
         -webkit-text-fill-color: transparent !important;
     }
+    p:nth-child(3){
+        font-size:20px;
+        background: ${colors.TEXT_GRADIENT_PURPLE};
+        -webkit-background-clip:text !important;
+        -webkit-text-fill-color: transparent !important;
+    }
+
+    li{
+        font-size:20px;
+    }
 
     @media (max-width: 768px) {
         padding:0;
@@ -72,7 +82,7 @@ export const ContainerIcons = styled.div`
 
     img:hover{
         transform:scale(1.2);
-        background:${colors.TEXT_GRADIENT_GREEN};
+        background: linear-gradient(to bottom, #0f2027, #203a43, #a3bbc5);
         border-radius:50%;
         transition:all ease-in .2s;
     }
@@ -89,7 +99,8 @@ export const ContainerImage = styled.div`
 
     img{
         width:250px;
-        border-radius:50%;
+        border-radius:10%;
+        
     }
 
     @media (max-width:768px){

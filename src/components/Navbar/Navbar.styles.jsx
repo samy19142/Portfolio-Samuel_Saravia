@@ -2,6 +2,8 @@ import styled from "styled-components";
 import { colors } from "../../styles/colors";
 
 export const ContainerNavbars = styled.div`
+  position:sticky;
+  top:0;
   max-width: 100vw;
   height: 100px;
   box-shadow: ${colors.BOX_SHADOW};
@@ -73,7 +75,7 @@ export const Containeritems = styled.div`
 export const Button = styled.button`
     color: ${colors.TEXT_WHITE};
     box-shadow:${colors.BOX_SHADOW_BUTTON};
-    background: linear-gradient(135deg, #6699ff 0%, #ff3366 100%);
+    background: linear-gradient(135deg, #fff566 0%, #ff3a33 100%);
     padding: 12px 20px;
     border-radius:999px;
     border:none;
